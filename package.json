@@ -37,9 +37,9 @@
       "package"
     ]
   },
-  "dependencies": {
-    "@changesets/cli": "^2.27.8",
-    "@manypkg/cli": "^0.21.4",
-    "@preconstruct/cli": "^2.8.7"
+  "devDependencies": {
+    "@changesets/cli": "^2.29.6",
+    "@manypkg/cli": "^0.25.1",
+    "@preconstruct/cli": "^2.8.12"
   }
 }
